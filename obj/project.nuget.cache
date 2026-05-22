@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWKg9oGGKpk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\GBMCF\\GBMCF\\GBMCF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.web.webview2\\1.0.3967.48\\microsoft.web.webview2.1.0.3967.48.nupkg.sha512"
+  ],
+  "logs": []
+}
